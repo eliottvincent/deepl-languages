@@ -1,7 +1,5 @@
 name: Release
-on:
-  schedule:
-    - cron: "*/5 * * * *"
+on: push
 jobs:
   release:
     name: Updates languages, releases a new version if needed
@@ -23,7 +21,7 @@ jobs:
       - name: Update languages
         id: update
         run: |
-          npm run update
+          DEEPL_KEY=${{ secrets.DEEPL_KEY }} npm run update
       - name: Test
         id: test
         if: ${{ steps.update.outputs.status == 'updated' }}
