@@ -39,7 +39,11 @@ var isLanguageSupported = function(code, type = DEFAULT_TYPE) {
     return false;
   }
 
-  return Object.prototype.hasOwnProperty.call(data[type], code);
+  var _language = data[type].find((language) => {
+    return language.language === code.toUpperCase();
+  });
+
+  return !!_language;
 };
 
 /**************************************************************************
@@ -49,7 +53,7 @@ var isLanguageSupported = function(code, type = DEFAULT_TYPE) {
 exports.isLanguageSupported = isLanguageSupported;
 
 exports.source              = data.source;
-exports.target              = data.transliteration;
+exports.target              = data.target;
 
 exports.default             = {
   isLanguageSupported : isLanguageSupported,
