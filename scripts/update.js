@@ -105,7 +105,6 @@ var __dispatch_request = (method, uri) => {
         method : method
       };
 
-      console.log(uri);
   _request_params.host = _url.host;
   _request_params.port = _url.port;
   _request_params.path = _url.path;
