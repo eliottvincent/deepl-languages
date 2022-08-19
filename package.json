@@ -1,5 +1,5 @@
 {
-  "version": "0.1.2",
+  "version": "0.1.3",
   "name": "deepl-languages",
   "description": "Maps supported languages by DeepL",
   "author": "Eliott Vincent <dev@eliottvincent.com>",
