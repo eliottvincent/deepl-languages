@@ -81,18 +81,6 @@ var __write_json_file = (path, content) => {
 };
 
 /**
- * Reads a JSON file
- * @private
- * @param  {string} path
- * @return {object} Promise object
- */
-var __read_json_file = (path) => {
-  let _buffer = fs.readFileSync(path);
-
-  return Promise.resolve(JSON.parse(_buffer))
-}
-
-/**
  * Dispatches an HTTPS request
  * @private
  * @param  {string} method
@@ -158,7 +146,6 @@ var __dispatch_request = (method, uri) => {
     request.end();
   });
 };
-
 
 /**
  * Updates languages for a type
