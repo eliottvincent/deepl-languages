@@ -25,7 +25,7 @@ var DEFAULT_TYPE = "source";
 
 /**
  * Checks whether a language is supported or not
- * @private
+ * @public
  * @param  {string}  code
  * @param  {string}  [type]
  * @return {boolean} Whether the language is supported or not
