@@ -56,12 +56,20 @@
     "name": "Japanese"
   },
   {
+    "language": "KO",
+    "name": "Korean"
+  },
+  {
     "language": "LT",
     "name": "Lithuanian"
   },
   {
     "language": "LV",
     "name": "Latvian"
+  },
+  {
+    "language": "NB",
+    "name": "Norwegian"
   },
   {
     "language": "NL",
