@@ -1,5 +1,10 @@
 [
   {
+    "language": "AR",
+    "name": "Arabic",
+    "supports_formality": false
+  },
+  {
     "language": "BG",
     "name": "Bulgarian",
     "supports_formality": false
@@ -157,6 +162,11 @@
   {
     "language": "ZH-HANS",
     "name": "Chinese (simplified)",
+    "supports_formality": false
+  },
+  {
+    "language": "ZH-HANT",
+    "name": "Chinese (traditional)",
     "supports_formality": false
   }
 ]
