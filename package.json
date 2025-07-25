@@ -1,6 +1,6 @@
 {
   "name": "deepl-languages",
-  "version": "0.1.11",
+  "version": "0.1.12",
   "description": "Maps supported languages by DeepL",
   "author": "Eliott Vincent <dev@eliottvincent.com>",
   "main": "src/index.js",
