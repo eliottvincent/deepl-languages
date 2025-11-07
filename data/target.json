@@ -65,6 +65,11 @@
     "supports_formality": true
   },
   {
+    "language": "HE",
+    "name": "Hebrew",
+    "supports_formality": false
+  },
+  {
     "language": "HU",
     "name": "Hungarian",
     "supports_formality": false
@@ -150,6 +155,11 @@
     "supports_formality": false
   },
   {
+    "language": "TH",
+    "name": "Thai",
+    "supports_formality": false
+  },
+  {
     "language": "TR",
     "name": "Turkish",
     "supports_formality": false
@@ -157,6 +167,11 @@
   {
     "language": "UK",
     "name": "Ukrainian",
+    "supports_formality": false
+  },
+  {
+    "language": "VI",
+    "name": "Vietnamese",
     "supports_formality": false
   },
   {

@@ -44,6 +44,10 @@
     "name": "French"
   },
   {
+    "language": "HE",
+    "name": "Hebrew"
+  },
+  {
     "language": "HU",
     "name": "Hungarian"
   },
@@ -108,12 +112,20 @@
     "name": "Swedish"
   },
   {
+    "language": "TH",
+    "name": "Thai"
+  },
+  {
     "language": "TR",
     "name": "Turkish"
   },
   {
     "language": "UK",
     "name": "Ukrainian"
+  },
+  {
+    "language": "VI",
+    "name": "Vietnamese"
   },
   {
     "language": "ZH",
