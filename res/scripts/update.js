@@ -90,12 +90,15 @@ var __write_json_file = (path, content) => {
 var __dispatch_request = (method, uri) => {
   let _url            = url.parse(uri),
       _request_params = {
-        method : method
+        method : method,
+        headers: {}
       };
 
   _request_params.host = _url.host;
   _request_params.port = _url.port;
   _request_params.path = _url.path;
+
+  _request_params.headers["Authorization"] = `DeepL-Auth-Key ${process.env.DEEPL_KEY}`;
 
   return new Promise((resolve, reject) => {
     var request = https.request(_request_params, (response) => {
@@ -172,7 +175,7 @@ var update_languages = (type) => {
 
       return __dispatch_request(
         DEEPL.METHOD,
-        `${DEEPL.ENDPOINT}?type=${type}&auth_key=${process.env.DEEPL_KEY}`
+        `${DEEPL.ENDPOINT}?type=${type}`
       );
     })
     .then(body => {
