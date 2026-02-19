@@ -1,7 +1,42 @@
 [
   {
+    "language": "AF",
+    "name": "Afrikaans",
+    "supports_formality": false
+  },
+  {
+    "language": "AN",
+    "name": "Aragonese",
+    "supports_formality": false
+  },
+  {
     "language": "AR",
     "name": "Arabic",
+    "supports_formality": false
+  },
+  {
+    "language": "AS",
+    "name": "Assamese",
+    "supports_formality": false
+  },
+  {
+    "language": "AY",
+    "name": "Aymara",
+    "supports_formality": false
+  },
+  {
+    "language": "AZ",
+    "name": "Azerbaijani",
+    "supports_formality": false
+  },
+  {
+    "language": "BA",
+    "name": "Bashkir",
+    "supports_formality": false
+  },
+  {
+    "language": "BE",
+    "name": "Belarusian",
     "supports_formality": false
   },
   {
@@ -10,8 +45,33 @@
     "supports_formality": false
   },
   {
+    "language": "BN",
+    "name": "Bengali",
+    "supports_formality": false
+  },
+  {
+    "language": "BR",
+    "name": "Breton",
+    "supports_formality": false
+  },
+  {
+    "language": "BS",
+    "name": "Bosnian",
+    "supports_formality": false
+  },
+  {
+    "language": "CA",
+    "name": "Catalan",
+    "supports_formality": false
+  },
+  {
     "language": "CS",
     "name": "Czech",
+    "supports_formality": false
+  },
+  {
+    "language": "CY",
+    "name": "Welsh",
     "supports_formality": false
   },
   {
@@ -40,6 +100,11 @@
     "supports_formality": false
   },
   {
+    "language": "EO",
+    "name": "Esperanto",
+    "supports_formality": false
+  },
+  {
     "language": "ES",
     "name": "Spanish",
     "supports_formality": true
@@ -55,6 +120,16 @@
     "supports_formality": false
   },
   {
+    "language": "EU",
+    "name": "Basque",
+    "supports_formality": false
+  },
+  {
+    "language": "FA",
+    "name": "Persian",
+    "supports_formality": false
+  },
+  {
     "language": "FI",
     "name": "Finnish",
     "supports_formality": false
@@ -65,8 +140,48 @@
     "supports_formality": true
   },
   {
+    "language": "GA",
+    "name": "Irish",
+    "supports_formality": false
+  },
+  {
+    "language": "GL",
+    "name": "Galician",
+    "supports_formality": false
+  },
+  {
+    "language": "GN",
+    "name": "Guarani",
+    "supports_formality": false
+  },
+  {
+    "language": "GU",
+    "name": "Gujarati",
+    "supports_formality": false
+  },
+  {
+    "language": "HA",
+    "name": "Hausa",
+    "supports_formality": false
+  },
+  {
     "language": "HE",
     "name": "Hebrew",
+    "supports_formality": false
+  },
+  {
+    "language": "HI",
+    "name": "Hindi",
+    "supports_formality": false
+  },
+  {
+    "language": "HR",
+    "name": "Croatian",
+    "supports_formality": false
+  },
+  {
+    "language": "HT",
+    "name": "Haitian Creole",
     "supports_formality": false
   },
   {
@@ -75,8 +190,23 @@
     "supports_formality": false
   },
   {
+    "language": "HY",
+    "name": "Armenian",
+    "supports_formality": false
+  },
+  {
     "language": "ID",
     "name": "Indonesian",
+    "supports_formality": false
+  },
+  {
+    "language": "IG",
+    "name": "Igbo",
+    "supports_formality": false
+  },
+  {
+    "language": "IS",
+    "name": "Icelandic",
     "supports_formality": false
   },
   {
@@ -90,8 +220,43 @@
     "supports_formality": true
   },
   {
+    "language": "JV",
+    "name": "Javanese",
+    "supports_formality": false
+  },
+  {
+    "language": "KA",
+    "name": "Georgian",
+    "supports_formality": false
+  },
+  {
+    "language": "KK",
+    "name": "Kazakh",
+    "supports_formality": false
+  },
+  {
     "language": "KO",
     "name": "Korean",
+    "supports_formality": false
+  },
+  {
+    "language": "KY",
+    "name": "Kyrgyz",
+    "supports_formality": false
+  },
+  {
+    "language": "LA",
+    "name": "Latin",
+    "supports_formality": false
+  },
+  {
+    "language": "LB",
+    "name": "Luxembourgish",
+    "supports_formality": false
+  },
+  {
+    "language": "LN",
+    "name": "Lingala",
     "supports_formality": false
   },
   {
@@ -105,8 +270,58 @@
     "supports_formality": false
   },
   {
+    "language": "MG",
+    "name": "Malagasy",
+    "supports_formality": false
+  },
+  {
+    "language": "MI",
+    "name": "Maori",
+    "supports_formality": false
+  },
+  {
+    "language": "MK",
+    "name": "Macedonian",
+    "supports_formality": false
+  },
+  {
+    "language": "ML",
+    "name": "Malayalam",
+    "supports_formality": false
+  },
+  {
+    "language": "MN",
+    "name": "Mongolian",
+    "supports_formality": false
+  },
+  {
+    "language": "MR",
+    "name": "Marathi",
+    "supports_formality": false
+  },
+  {
+    "language": "MS",
+    "name": "Malay",
+    "supports_formality": false
+  },
+  {
+    "language": "MT",
+    "name": "Maltese",
+    "supports_formality": false
+  },
+  {
+    "language": "MY",
+    "name": "Burmese",
+    "supports_formality": false
+  },
+  {
     "language": "NB",
     "name": "Norwegian",
+    "supports_formality": false
+  },
+  {
+    "language": "NE",
+    "name": "Nepali",
     "supports_formality": false
   },
   {
@@ -115,9 +330,29 @@
     "supports_formality": true
   },
   {
+    "language": "OC",
+    "name": "Occitan",
+    "supports_formality": false
+  },
+  {
+    "language": "OM",
+    "name": "Oromo",
+    "supports_formality": false
+  },
+  {
+    "language": "PA",
+    "name": "Punjabi",
+    "supports_formality": false
+  },
+  {
     "language": "PL",
     "name": "Polish",
     "supports_formality": true
+  },
+  {
+    "language": "PS",
+    "name": "Pashto",
+    "supports_formality": false
   },
   {
     "language": "PT-BR",
@@ -130,6 +365,11 @@
     "supports_formality": true
   },
   {
+    "language": "QU",
+    "name": "Quechua",
+    "supports_formality": false
+  },
+  {
     "language": "RO",
     "name": "Romanian",
     "supports_formality": false
@@ -138,6 +378,11 @@
     "language": "RU",
     "name": "Russian",
     "supports_formality": true
+  },
+  {
+    "language": "SA",
+    "name": "Sanskrit",
+    "supports_formality": false
   },
   {
     "language": "SK",
@@ -150,8 +395,48 @@
     "supports_formality": false
   },
   {
+    "language": "SQ",
+    "name": "Albanian",
+    "supports_formality": false
+  },
+  {
+    "language": "SR",
+    "name": "Serbian",
+    "supports_formality": false
+  },
+  {
+    "language": "ST",
+    "name": "Sesotho",
+    "supports_formality": false
+  },
+  {
+    "language": "SU",
+    "name": "Sundanese",
+    "supports_formality": false
+  },
+  {
     "language": "SV",
     "name": "Swedish",
+    "supports_formality": false
+  },
+  {
+    "language": "SW",
+    "name": "Swahili",
+    "supports_formality": false
+  },
+  {
+    "language": "TA",
+    "name": "Tamil",
+    "supports_formality": false
+  },
+  {
+    "language": "TE",
+    "name": "Telugu",
+    "supports_formality": false
+  },
+  {
+    "language": "TG",
+    "name": "Tajik",
     "supports_formality": false
   },
   {
@@ -160,8 +445,33 @@
     "supports_formality": false
   },
   {
+    "language": "TK",
+    "name": "Turkmen",
+    "supports_formality": false
+  },
+  {
+    "language": "TL",
+    "name": "Tagalog",
+    "supports_formality": false
+  },
+  {
+    "language": "TN",
+    "name": "Tswana",
+    "supports_formality": false
+  },
+  {
     "language": "TR",
     "name": "Turkish",
+    "supports_formality": false
+  },
+  {
+    "language": "TS",
+    "name": "Tsonga",
+    "supports_formality": false
+  },
+  {
+    "language": "TT",
+    "name": "Tatar",
     "supports_formality": false
   },
   {
@@ -170,8 +480,33 @@
     "supports_formality": false
   },
   {
+    "language": "UR",
+    "name": "Urdu",
+    "supports_formality": false
+  },
+  {
+    "language": "UZ",
+    "name": "Uzbek",
+    "supports_formality": false
+  },
+  {
     "language": "VI",
     "name": "Vietnamese",
+    "supports_formality": false
+  },
+  {
+    "language": "WO",
+    "name": "Wolof",
+    "supports_formality": false
+  },
+  {
+    "language": "XH",
+    "name": "Xhosa",
+    "supports_formality": false
+  },
+  {
+    "language": "YI",
+    "name": "Yiddish",
     "supports_formality": false
   },
   {
@@ -187,6 +522,11 @@
   {
     "language": "ZH-HANT",
     "name": "Chinese (traditional)",
+    "supports_formality": false
+  },
+  {
+    "language": "ZU",
+    "name": "Zulu",
     "supports_formality": false
   }
 ]
