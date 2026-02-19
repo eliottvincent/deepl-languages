@@ -12,13 +12,13 @@ jobs:
     steps:
       - name: Checkout
         id: checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
 
       - name: Install Node
         id: install_node
-        uses: actions/setup-node@v2
+        uses: actions/setup-node@v4
         with:
-          node-version: "14"
+          node-version: "24.x"
           registry-url: "https://registry.npmjs.org"
 
       - name: Install dependencies
@@ -54,5 +54,3 @@ jobs:
         if: ${{ steps.update.outputs.status == 'updated' }}
         run: |
           npm publish
-        env:
-          NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
