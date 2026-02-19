@@ -1,63 +1,15 @@
 [
   {
-    "language": "AF",
-    "name": "Afrikaans"
-  },
-  {
-    "language": "AN",
-    "name": "Aragonese"
-  },
-  {
     "language": "AR",
     "name": "Arabic"
-  },
-  {
-    "language": "AS",
-    "name": "Assamese"
-  },
-  {
-    "language": "AY",
-    "name": "Aymara"
-  },
-  {
-    "language": "AZ",
-    "name": "Azerbaijani"
-  },
-  {
-    "language": "BA",
-    "name": "Bashkir"
-  },
-  {
-    "language": "BE",
-    "name": "Belarusian"
   },
   {
     "language": "BG",
     "name": "Bulgarian"
   },
   {
-    "language": "BN",
-    "name": "Bengali"
-  },
-  {
-    "language": "BR",
-    "name": "Breton"
-  },
-  {
-    "language": "BS",
-    "name": "Bosnian"
-  },
-  {
-    "language": "CA",
-    "name": "Catalan"
-  },
-  {
     "language": "CS",
     "name": "Czech"
-  },
-  {
-    "language": "CY",
-    "name": "Welsh"
   },
   {
     "language": "DA",
@@ -76,24 +28,12 @@
     "name": "English"
   },
   {
-    "language": "EO",
-    "name": "Esperanto"
-  },
-  {
     "language": "ES",
     "name": "Spanish"
   },
   {
     "language": "ET",
     "name": "Estonian"
-  },
-  {
-    "language": "EU",
-    "name": "Basque"
-  },
-  {
-    "language": "FA",
-    "name": "Persian"
   },
   {
     "language": "FI",
@@ -104,60 +44,16 @@
     "name": "French"
   },
   {
-    "language": "GA",
-    "name": "Irish"
-  },
-  {
-    "language": "GL",
-    "name": "Galician"
-  },
-  {
-    "language": "GN",
-    "name": "Guarani"
-  },
-  {
-    "language": "GU",
-    "name": "Gujarati"
-  },
-  {
-    "language": "HA",
-    "name": "Hausa"
-  },
-  {
     "language": "HE",
     "name": "Hebrew"
-  },
-  {
-    "language": "HI",
-    "name": "Hindi"
-  },
-  {
-    "language": "HR",
-    "name": "Croatian"
-  },
-  {
-    "language": "HT",
-    "name": "Haitian Creole"
   },
   {
     "language": "HU",
     "name": "Hungarian"
   },
   {
-    "language": "HY",
-    "name": "Armenian"
-  },
-  {
     "language": "ID",
     "name": "Indonesian"
-  },
-  {
-    "language": "IG",
-    "name": "Igbo"
-  },
-  {
-    "language": "IS",
-    "name": "Icelandic"
   },
   {
     "language": "IT",
@@ -168,36 +64,8 @@
     "name": "Japanese"
   },
   {
-    "language": "JV",
-    "name": "Javanese"
-  },
-  {
-    "language": "KA",
-    "name": "Georgian"
-  },
-  {
-    "language": "KK",
-    "name": "Kazakh"
-  },
-  {
     "language": "KO",
     "name": "Korean"
-  },
-  {
-    "language": "KY",
-    "name": "Kyrgyz"
-  },
-  {
-    "language": "LA",
-    "name": "Latin"
-  },
-  {
-    "language": "LB",
-    "name": "Luxembourgish"
-  },
-  {
-    "language": "LN",
-    "name": "Lingala"
   },
   {
     "language": "LT",
@@ -208,80 +76,20 @@
     "name": "Latvian"
   },
   {
-    "language": "MG",
-    "name": "Malagasy"
-  },
-  {
-    "language": "MI",
-    "name": "Maori"
-  },
-  {
-    "language": "MK",
-    "name": "Macedonian"
-  },
-  {
-    "language": "ML",
-    "name": "Malayalam"
-  },
-  {
-    "language": "MN",
-    "name": "Mongolian"
-  },
-  {
-    "language": "MR",
-    "name": "Marathi"
-  },
-  {
-    "language": "MS",
-    "name": "Malay"
-  },
-  {
-    "language": "MT",
-    "name": "Maltese"
-  },
-  {
-    "language": "MY",
-    "name": "Burmese"
-  },
-  {
     "language": "NB",
     "name": "Norwegian"
-  },
-  {
-    "language": "NE",
-    "name": "Nepali"
   },
   {
     "language": "NL",
     "name": "Dutch"
   },
   {
-    "language": "OC",
-    "name": "Occitan"
-  },
-  {
-    "language": "OM",
-    "name": "Oromo"
-  },
-  {
-    "language": "PA",
-    "name": "Punjabi"
-  },
-  {
     "language": "PL",
     "name": "Polish"
   },
   {
-    "language": "PS",
-    "name": "Pashto"
-  },
-  {
     "language": "PT",
     "name": "Portuguese"
-  },
-  {
-    "language": "QU",
-    "name": "Quechua"
   },
   {
     "language": "RO",
@@ -292,10 +100,6 @@
     "name": "Russian"
   },
   {
-    "language": "SA",
-    "name": "Sanskrit"
-  },
-  {
     "language": "SK",
     "name": "Slovak"
   },
@@ -304,103 +108,27 @@
     "name": "Slovenian"
   },
   {
-    "language": "SQ",
-    "name": "Albanian"
-  },
-  {
-    "language": "SR",
-    "name": "Serbian"
-  },
-  {
-    "language": "ST",
-    "name": "Sesotho"
-  },
-  {
-    "language": "SU",
-    "name": "Sundanese"
-  },
-  {
     "language": "SV",
     "name": "Swedish"
-  },
-  {
-    "language": "SW",
-    "name": "Swahili"
-  },
-  {
-    "language": "TA",
-    "name": "Tamil"
-  },
-  {
-    "language": "TE",
-    "name": "Telugu"
-  },
-  {
-    "language": "TG",
-    "name": "Tajik"
   },
   {
     "language": "TH",
     "name": "Thai"
   },
   {
-    "language": "TK",
-    "name": "Turkmen"
-  },
-  {
-    "language": "TL",
-    "name": "Tagalog"
-  },
-  {
-    "language": "TN",
-    "name": "Tswana"
-  },
-  {
     "language": "TR",
     "name": "Turkish"
-  },
-  {
-    "language": "TS",
-    "name": "Tsonga"
-  },
-  {
-    "language": "TT",
-    "name": "Tatar"
   },
   {
     "language": "UK",
     "name": "Ukrainian"
   },
   {
-    "language": "UR",
-    "name": "Urdu"
-  },
-  {
-    "language": "UZ",
-    "name": "Uzbek"
-  },
-  {
     "language": "VI",
     "name": "Vietnamese"
   },
   {
-    "language": "WO",
-    "name": "Wolof"
-  },
-  {
-    "language": "XH",
-    "name": "Xhosa"
-  },
-  {
-    "language": "YI",
-    "name": "Yiddish"
-  },
-  {
     "language": "ZH",
     "name": "Chinese"
-  },
-  {
-    "language": "ZU",
-    "name": "Zulu"
   }
 ]
