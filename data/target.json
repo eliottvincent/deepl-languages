@@ -85,6 +85,11 @@
     "supports_formality": true
   },
   {
+    "language": "DE-DE",
+    "name": "German",
+    "supports_formality": true
+  },
+  {
     "language": "EL",
     "name": "Greek",
     "supports_formality": false
@@ -136,6 +141,11 @@
   },
   {
     "language": "FR",
+    "name": "French",
+    "supports_formality": true
+  },
+  {
+    "language": "FR-FR",
     "name": "French",
     "supports_formality": true
   },
